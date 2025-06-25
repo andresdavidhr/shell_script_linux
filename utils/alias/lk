@@ -1,0 +1,3 @@
+#!/bin/ksh
+fich=${1}
+ls -lrt | grep -i ${fich}
